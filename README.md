@@ -17,4 +17,6 @@ Quais pontos do sistema você considera mais críticos para teste?
 
 
 Cenários de Teste: https://docs.google.com/spreadsheets/d/1ZBASQtsAXU7YTHJhf6iPL-KnT-drv4uQjZ3s8wBfWVY/edit?usp=sharing
+
+
 Evidências: https://drive.google.com/drive/folders/1TSanr6U5YXfOqqi7DAI9aW9-JbVy-HPB?usp=sharing
